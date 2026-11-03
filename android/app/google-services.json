@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293626155083",
+    "project_id": "campus-incident-app-ridaa",
+    "storage_bucket": "campus-incident-app-ridaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293626155083:android:bb8dcb587eb6aaf6c07dce",
+        "android_client_info": {
+          "package_name": "com.yourname.campus_incident_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIklB9yZ2xLWJON-QlETkKmomGIX3Gp4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
