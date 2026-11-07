@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Campus Incident Reporter',
         debugShowCheckedModeBanner: false,
-        // The mockup is violet. For that, use Color(0xFF6C3BFF) instead of Colors.blue.
+        
         theme: ThemeData(
           colorSchemeSeed: Colors.blue,
           useMaterial3: true,
